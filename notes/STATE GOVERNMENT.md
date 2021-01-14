@@ -1,0 +1,8 @@
+---
+tags: [POLITY-CONCEPTS]
+title: STATE GOVERNMENT
+created: '2021-01-14T11:45:17.953Z'
+modified: '2021-01-14T11:45:27.117Z'
+---
+
+# STATE GOVERNMENT

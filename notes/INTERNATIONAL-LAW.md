@@ -1,0 +1,8 @@
+---
+tags: [LAW-OPTIONAL]
+title: INTERNATIONAL-LAW
+created: '2021-01-14T11:39:05.438Z'
+modified: '2021-01-14T11:39:19.698Z'
+---
+
+# INTERNATIONAL-LAW

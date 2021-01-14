@@ -1,0 +1,8 @@
+---
+tags: [POLITY-CONCEPTS]
+title: LOCAL GOVERNMENT
+created: '2021-01-14T11:45:29.418Z'
+modified: '2021-01-14T11:45:37.551Z'
+---
+
+# LOCAL GOVERNMENT

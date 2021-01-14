@@ -1,0 +1,8 @@
+---
+tags: [LAW-OPTIONAL]
+title: MERCANTILE-LAW
+created: '2021-01-14T11:39:55.386Z'
+modified: '2021-01-14T11:40:04.619Z'
+---
+
+# MERCANTILE-LAW

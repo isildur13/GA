@@ -1,0 +1,9 @@
+---
+tags: [LAW-OPTIONAL]
+title: CONTRACT-LAW
+created: '2021-01-14T11:37:19.364Z'
+modified: '2021-01-14T11:38:35.861Z'
+---
+
+# CONTRACT-LAW
+

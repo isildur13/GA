@@ -1,0 +1,9 @@
+---
+tags: [NCERT, NCERT-POLITY, POLITY]
+title: NCERT-POLITY-10
+created: '2021-01-14T11:34:36.900Z'
+modified: '2021-01-14T11:47:30.574Z'
+---
+
+# NCERT-POLITY-10
+

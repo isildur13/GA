@@ -1,0 +1,17 @@
+---
+tags: [TIME-TABLE]
+title: DAILY LOGS
+created: '2021-01-14T12:07:25.457Z'
+modified: '2021-01-14T12:08:30.713Z'
+---
+
+# DAILY LOGS
+
+## THU-14-01-21
+## FRI-15-01-21
+## SAT-16-01-21
+## SUN-17-01-21
+## MON-18-01-21
+## TUE-19-01-21
+## WED-20-01-21
+
