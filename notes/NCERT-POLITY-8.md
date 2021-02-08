@@ -2,7 +2,7 @@
 tags: [NCERT, NCERT-POLITY, POLITY]
 title: NCERT-POLITY-8
 created: '2021-01-14T11:34:11.241Z'
-modified: '2021-01-20T16:16:42.190Z'
+modified: '2021-02-08T17:20:37.996Z'
 ---
 
 # NCERT-POLITY-8
@@ -235,12 +235,200 @@ Chapter 6 Understanding our criminal justice system
   
   * Are the guidelines laid down by the Supreme Court of India containing specific requirements and procedures that the police and other agencies have to follow for arrest, detention and interrogation of any person.
 
+    1) Police Officials who carry out the arrest/interrogation should wear clear, accurate and visible Identification and name tages along with their designation.
+
+    2) When a friend or relative lives outside of the district they should be informed about the time and place of arrest, location of custody within 8-12 hours of the arrest.
+
+    3) A person  being arrested, detained or being interrogated has the right to inform a relative, friend or well wisher.
+
+    4) A memo of arrest should be prepared at the time of the arrest and should include the time and date of the arrest. It should also be attested by at least one witness who could include family member of the person arrested. The arrest memo should be counter signed by the person being arrested.
 
 
+* First Investigation Report (FIR)
+
+  * It is with the registration of the FIR that police can begin with their investigations into a crime.
+
+  * The law states that it is compulsary for the police officer in charge of the police station to file an FIR in case of a cognizible offence.
+
+  * This information can be given out to the police either orally or in writing.
+
+  * FIR mentions :
+
+    There is a prescribed form in which the police registers the FIR and it is signed by the complaintant.
+
+    * Date
+    * Time 
+    * Place 
+    * Basic Fact details of the crime (Including the discription of the events)
+    * Identity of the accused is also mentioned (If known)
+    * Also states the name and Address of the complainant.
+
+    The complaintant has the right to get free copy of the FIR from the police.
+
+
+ * **Role of the Public Prosecutor (Officer)**
+
+   A Criminal Offence is a public wrong this meanse that the offence is not just committed against the victim but is also commited against the society as a whole.
+
+   Public Prosecutor represents the interests of the State. (Officer of the Court)
+   
+   Duties of Public Prosecutor:-
+
+      * Act impartially
+   
+      * Present the full and material evidence, witness, facts before the court to enable the court to decide the case.
+
+ * **Role of the Judge (Umpire)**
+
+   * Impartial and Open Court Hearing of the case.
+   * Passing the Judgements on the basis of Fact, Evidence and inaccordance with the law.
+   
+
+ * **Fair Trial**
+    
+   * **Basis of evidence.**
+   * Impartial judgement
+   * **Open Court**
+   * Presence of the accused
+   * **Opportunity for cross examination**
+   * Opportunity to present witness
+   * Innocent till proven guilty
+
+
+
+ 
 
 ## Part 4. Social Justice and the Marginalised
 
+**Marginalization/Exclusion:** Basis of separation from the mainstream.
+
+## Chapter 7: Understanding Marginalization
+
+  * Marginalization is deviation from the mainstream and not being at the center(treated) like majority of people.
+
+
+  * Marginalization is caused due to differences.
+
+  Communities discusses here:- 
+  
+  * Adivasis/Tribals
+    
+  * Religious Minorities 
+
+
+  Sanchara Committee report on Muslims
+
+## Chapter 8: Confronting Marginalization
+
+* **Invoking Fundamental Rights**
+
+* **Laws for Marginalized**
+
+  * **Article 17** (Abolishment of untouchability/Punishable crime)
+  * **Article 15** (no citizen of India shall be discriminated against on the basis of religion, race, caste, sex or place of birth)
+
+  * **Promoting  Social Justice**
+  
+    * Reservation Policy 
+
+* **Protecting the rights of Dalits and Adivasis**
+
+  * **The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989**
+
+  * Adivasi demands and 1989 Act
+
+* **Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006**
+
+  * Regarding their land protection 
+  * Issues where their land is taken away and the Forest Dwellers/Tribal people are declared as enchrochers.
 
 
 ## Part 5. Economic Presence of the Government
+
+* Public facilities
+* Policies applicable to markets, factories and working conditions of the people.
+
+
+
+## Chapter 9. Water/Public Facilities
+
+* Water as part of the fundamental right to life
+    * COI recognizes right to water as being part of the Right to Life under Article 21.
+
+* Pubic Facilities
+    * Essential servicies that are available to public.
+    * Once provided it's benefits can be shared by many people.
+
+* Government's Role
+    * Responsible for providing essential services to the public.
+
+    * **Where does the govt gets money for public facilities?**
+
+      * Govt Budget << (Revenue collected by the Govt) consists mostly of tax raised from people and companies.
+
+
+
+* Alternatives
+
+
+## Chapter 10. Law and Social Justice/Role of Government in regulating economic activities
+
+
+* Issue of Workers wage
+  * Minimum Wage law (revised every few years upwards)
+
+* Mere making laws is not enough the govt has to ensure that the laws are implemented.
+
+* Enforcement becomes more important to protect weak from the strong.
+
+
+* Bhopal Gas Tragedy
+
+  * What is a workers worth?
+
+* Enforcement of Safety Laws
+
+  * Need for investment in the Bhopal 
+  * Inspection was not that much enforced due to fear that the investment might stop.
+
+
+* Environment protection laws.
+
+### Summary
+
+
+**Constitution as a living ideal**
+
+* Right to Life as a fundamental right of the Indian Constitution.
+
+  * Hakim Sheikh 
+  * Eviction of Slum dwellers from Mumbai
+
+* Right to equality, dignity and against exploitation.
+
+* How constitution protects the weaker section of the society as well as the ordinary citizens from the rich and powerful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
